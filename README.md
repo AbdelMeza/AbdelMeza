@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdelhak Mezaguer
+Welcome, my name is Abdelhak Mezaguer
 ==========================================================================================================================================
 
 Passionate about turning ideas into real digital products, I build scalable and user-focused web apps from front-end to back-end. I care about clean code, performance, and creating smooth user experiences. Always learning, always building.
