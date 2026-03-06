@@ -18,5 +18,8 @@ Passionate about turning ideas into real digital products, I build scalable and 
 
 # 📊 Github stats:
 
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=AbdelMeza&show_icons=true&theme=dark_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelMeza&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelMeza&theme=tokyonight" alt="Streak" />
+</p>
 
