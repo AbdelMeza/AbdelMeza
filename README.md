@@ -8,7 +8,7 @@ Passionate about turning ideas into real digital products, I build scalable and 
 * ✉️  You can contact me at [abdelhakdev.contact@gmail.com](mailto:abdelhakdev.contact@gmail.com)
 
 ## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/abdelhakcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelhakdev.contact@gmail.com) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/abdelhakcode)
 
 ## 🚀 Tech stack:
 
