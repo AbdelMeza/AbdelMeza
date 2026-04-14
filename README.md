@@ -1,5 +1,4 @@
 # Welcome, my name is Abdelhak Mezaguer
-==========================================================================================================================================
 
 Passionate about turning ideas into real digital products, I build scalable and user-focused web apps from front-end to back-end. I care about clean code, performance, and creating smooth user experiences. Always learning, always building.
 
