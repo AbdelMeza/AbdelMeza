@@ -6,7 +6,6 @@ I build **scalable, performant, and user-focused web applications** from fronten
 I care about **clean code**, **performance**, and **great user experiences**.  
 Always learning. Always building. 🚀
 
----
 
 # 🌍 About Me
 
@@ -19,13 +18,11 @@ Always learning. Always building. 🚀
 🔗 **Portfolio:**  
 👉 https://abdelmeza.github.io/Portfolio-2025/
 
----
 
 # 🌐 Socials
 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/abdelhakcode)
 
----
 
 # ⚒️ Tech Stack
 
@@ -68,14 +65,12 @@ Always learning. Always building. 🚀
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36"/>
 </p>
 
----
 
 # 🎓 Education
 
 - 🎓 Web & Mobile Developer Training — CACI Formation (2025 - Present)
 - 🎓 Fullstack JavaScript Certification — Code213 (2025 - 2026)
 
----
 
 # 📊 GitHub Stats
 
@@ -83,7 +78,6 @@ Always learning. Always building. 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelMeza&theme=tokyonight" />
 </p>
 
----
 
 # 🚀 Currently Learning
 
@@ -92,7 +86,6 @@ Always learning. Always building. 🚀
 - Performance Optimization
 - Clean Code & Best Practices
 
----
 
 # 🤝 Let's Connect
 
@@ -100,6 +93,4 @@ Always learning. Always building. 🚀
 - 📧 Email: abdelhakdev.contact@gmail.com
 - 🌐 CodePen: https://codepen.io/abdelhakcode
 
----
 
-⭐ *Building products that make an impact.*
