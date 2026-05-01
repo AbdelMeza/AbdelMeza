@@ -89,8 +89,7 @@ Always learning. Always building. 🚀
 
 # 🤝 Let's Connect
 
-- 💼 Portfolio: https://abdelmeza.github.io/Portfolio-2025/
 - 📧 Email: abdelhakdev.contact@gmail.com
-- 🌐 CodePen: https://codepen.io/abdelhakcode
+- 💼 Portfolio: https://abdelmeza.github.io/Portfolio-2025/
 
 
