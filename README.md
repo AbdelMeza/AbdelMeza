@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelhak Mezaguer
+# 👋 welcome, I'm Abdelhak Mezaguer
 
 **Full-Stack Web Developer** passionate about turning ideas into real digital products.  
 I build **scalable, performant, and user-focused web applications** from frontend to backend.
