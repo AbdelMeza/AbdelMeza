@@ -61,15 +61,6 @@ Always learning. Always building. 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelMeza&theme=tokyonight" />
 </p>
 
-
-# 🚀 Currently Learning
-
-- Advanced Full-Stack Architecture
-- System Design & Scalability
-- Performance Optimization
-- Clean Code & Best Practices
-
-
 # 🤝 Let's Connect
 
 - 📧 Email: abdelhakdev.contact@gmail.com
